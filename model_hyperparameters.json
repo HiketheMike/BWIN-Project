@@ -1,0 +1,30 @@
+{
+    "RANDOM_SEED": 42,
+    "LEARNING_RATE": 0.001,
+    "EPOCHS": 150,
+    "BATCH_SIZE": 100,
+    "VALIDATION_SPLIT": 0.1,
+    "EARLY_STOPPING_PATIENCE": 20,
+    "N_STEPS": 7,
+    "LSTM_UNITS": [
+        512,
+        256,
+        128
+    ],
+    "DROPOUT_RATE": 0.2,
+    "OPTIMIZER": "Adam",
+    "LOSS_FUNCTION": "mean_squared_error",
+    "FILTERED_FEATURES": [
+        "Walmart",
+        "MA30",
+        "S&P500",
+        "MA7"
+    ],
+    "TRAIN_SIZE": 3160,
+    "TEST_SIZE": 322,
+    "INPUT_SHAPE": [
+        3482,
+        7,
+        4
+    ]
+}
