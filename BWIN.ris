@@ -1,0 +1,478 @@
+TY  - JOUR
+TI  - Investigating explainability of deep learning models for sequential data on stock price prediction
+AU  - Sasikumar, Mahesh
+AU  - Raj, Ebin Deni
+T2  - Procedia Computer Science
+T3  - International Conference on Machine Learning and Data Engineering
+AB  - Accurate stock price prediction remains a significant challenge within the financial sector, where deep learning models have shown considerable predictive power but suffer from limited interpretability due to their inherent ”black box” nature. This study addresses this issue by integrating Explainable artificial Intelligence (XAI) techniques with Conv1D and LSTM deep learning models to enhance transparency in stock price forecasting. We propose a novel XAI algorithm tailored for deep learning, utilizing post-hoc explanation methods such as LIME and SHAP to elucidate the decision-making processes of the models. In addition, we evaluate the predictive performance of Conv1D and LSTM models against state-of-the-art techniques, including NBEATS and LTCN, revealing that NBEATS consistently achieves superior performance across multiple datasets. Our findings highlight the predictive significance of stock price of Adani power equity from the previous two days of stock price, whereas data from two days prior shows reduced influence on predictive accuracy. The study demonstrates that XAI-augmented Conv1D and LSTM models strike a balance between transparency and predictive performance, offering investors more interpretable insights into market trends. This research underscores the importance of explainable stock price prediction and calls for continued exploration of this emerging domain.
+DA  - 2025/01/01/
+PY  - 2025
+DO  - 10.1016/j.procs.2025.04.669
+DP  - ScienceDirect
+VL  - 258
+SP  - 4190
+EP  - 4201
+J2  - Procedia Computer Science
+SN  - 1877-0509
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050925017739
+Y2  - 2025/11/19/07:42:10
+L2  - https://www.sciencedirect.com/science/article/pii/S1877050925017739
+KW  - Convolution
+KW  - Explainability
+KW  - Interpretability
+KW  - LSTM
+KW  - Sequential data
+KW  - Time series
+ER  - 
+
+TY  - ELEC
+TI  - Why Walmart (WMT) is a Top Stock for the Long-Term
+AU  - read, Zacks Equity Research 2 min
+T2  - Yahoo Finance
+AB  - Finding strong, market-beating stocks with a positive earnings outlook becomes easier with the Focus List, a top feature of the Zacks Premium portfolio service.
+DA  - 2025/01/27/
+PY  - 2025
+LA  - en-US
+UR  - https://finance.yahoo.com/news/why-walmart-wmt-top-stock-143007379.html
+Y2  - 2025/11/19/07:43:00
+L2  - https://finance.yahoo.com/news/why-walmart-wmt-top-stock-143007379.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAHERQ3KvkiACZQ_94J-CKXCIUBHypA-XHD0ZgaDOST4PgT5ZaHBkrm1iorogywkLfK5kCjAbplQaVnUe3yK1_EP61fYwWRBiecdufb1fwGlnf2um1X7IRlBkzVr55CLo7MHV45ME7UJXX9BY6MoxumNqbAHXO1elDHX7OeReBwC5
+ER  - 
+
+TY  - BLOG
+TI  - Forecasting Walmart Sales with SARIMA: From Aggregated Trends to Store-Level Insights
+AU  - Gattani, Gayatri
+T2  - Medium
+AB  - In today’s data-driven world, being able to predict the future isn’t just a competitive advantage, it’s a necessity. Whether it’s…
+DA  - 2025/03/26/T17:03:58.266Z
+PY  - 2025
+LA  - en
+ST  - Forecasting Walmart Sales with SARIMA
+UR  - https://medium.com/@gayatrigattani2001/forecasting-walmart-sales-with-sarima-from-aggregated-trends-to-store-level-insights-096dac8957cd
+Y2  - 2025/11/19/07:48:53
+L2  - https://medium.com/@gayatrigattani2001/forecasting-walmart-sales-with-sarima-from-aggregated-trends-to-store-level-insights-096dac8957cd
+ER  - 
+
+TY  - CONF
+TI  - A Survey on Machine Learning for Stock Price Prediction: Algorithms and Techniques
+AU  - Obthong, Mehtabhorn
+AU  - Tantisantiwong, Nongnuch
+AU  - Jeamwatthanachai, Watthanasak
+AU  - Wills, Gary
+T2  - 2nd International Conference on Finance, Economics, Management and IT Business
+AB  - Digital Library
+DA  - 2025/11/19/
+PY  - 2025
+DP  - www.scitepress.org
+SP  - 63
+EP  - 71
+SN  - 978-989-758-422-0
+ST  - A Survey on Machine Learning for Stock Price Prediction
+UR  - https://www.scitepress.org/Link.aspx?doi=10.5220%2f0009340700630071
+Y2  - 2025/11/19/08:38:49
+L2  - https://www.scitepress.org/Link.aspx?doi=10.5220%2f0009340700630071
+ER  - 
+
+TY  - CONF
+TI  - Comparing Technical and Fundamental Indicators in Stock Price Forecasting
+AU  - Beyaz, Erhan
+AU  - Tekiner, Firat
+AU  - Zeng, Xiao-jun
+AU  - Keane, John
+T2  - 2018 IEEE 20th International Conference on High Performance Computing and Communications; IEEE 16th International Conference on Smart City; IEEE 4th International Conference on Data Science and Systems (HPCC/SmartCity/DSS)
+AB  - This paper evaluates whether Fundamental or Technical analysis is better when forecasting stock prices with machine learning models; further, it considers whether combined use of the two approaches is beneficial. Tests run on 140 companies from the S&P 500 indicate that models using indicators based on Fundamental analysis outperform those using indicators from Technical analysis with the level of outperformance varying across industries. Furthermore, in over 95% of cases, using Combined indicators results in lower RMSE compared to using Fundamental or Technical indicators alone.
+C3  - 2018 IEEE 20th International Conference on High Performance Computing and Communications; IEEE 16th International Conference on Smart City; IEEE 4th International Conference on Data Science and Systems (HPCC/SmartCity/DSS)
+DA  - 2018/06//
+PY  - 2018
+DO  - 10.1109/HPCC/SmartCity/DSS.2018.00262
+DP  - IEEE Xplore
+SP  - 1607
+EP  - 1613
+UR  - https://ieeexplore.ieee.org/abstract/document/8623000
+Y2  - 2025/11/19/08:41:10
+L2  - https://ieeexplore.ieee.org/abstract/document/8623000
+KW  - Companies
+KW  - Data models
+KW  - Forecasting
+KW  - Indexes
+KW  - Industries
+KW  - Machine learning
+KW  - Predictive models
+KW  - Supervised Learning, ANN, SVR, Technical Analysis, Fundamental Analysis, Stock Price Forecasting
+ER  - 
+
+TY  - JOUR
+TI  - Predicting stock and stock price index movement using Trend Deterministic Data Preparation and machine learning techniques
+AU  - Patel, Jigar
+AU  - Shah, Sahil
+AU  - Thakkar, Priyank
+AU  - Kotecha, K
+T2  - Expert Systems with Applications
+AB  - This paper addresses problem of predicting direction of movement of stock and stock price index for Indian stock markets. The study compares four prediction models, Artificial Neural Network (ANN), Support Vector Machine (SVM), random forest and naive-Bayes with two approaches for input to these models. The first approach for input data involves computation of ten technical parameters using stock trading data (open, high, low & close prices) while the second approach focuses on representing these technical parameters as trend deterministic data. Accuracy of each of the prediction models for each of the two input approaches is evaluated. Evaluation is carried out on 10years of historical data from 2003 to 2012 of two stocks namely Reliance Industries and Infosys Ltd. and two stock price indices CNX Nifty and S&P Bombay Stock Exchange (BSE) Sensex. The experimental results suggest that for the first approach of input data where ten technical parameters are represented as continuous values, random forest outperforms other three prediction models on overall performance. Experimental results also show that the performance of all the prediction models improve when these technical parameters are represented as trend deterministic data.
+DA  - 2015/01/01/
+PY  - 2015
+DO  - 10.1016/j.eswa.2014.07.040
+DP  - ScienceDirect
+VL  - 42
+IS  - 1
+SP  - 259
+EP  - 268
+J2  - Expert Systems with Applications
+SN  - 0957-4174
+UR  - https://www.sciencedirect.com/science/article/pii/S0957417414004473
+Y2  - 2025/11/19/09:16:17
+L2  - https://www.sciencedirect.com/science/article/abs/pii/S0957417414004473
+KW  - Artificial neural networks
+KW  - Naive-Bayes classification
+KW  - Random forest
+KW  - Stock market
+KW  - Support vector machine
+ER  - 
+
+TY  - JOUR
+TI  - Forecasting Stock Market Prices Using Machine Learning and Deep Learning Models: A Systematic Review, Performance Analysis and Discussion of Implications
+AU  - Sonkavde, Gaurang
+AU  - Dharrao, Deepak Sudhakar
+AU  - Bongale, Anupkumar M.
+AU  - Deokate, Sarika T.
+AU  - Doreswamy, Deepak
+AU  - Bhat, Subraya Krishna
+T2  - International Journal of Financial Studies
+AB  - The financial sector has greatly impacted the monetary well-being of consumers, traders, and financial institutions. In the current era, artificial intelligence is redefining the limits of the financial markets based on state-of-the-art machine learning and deep learning algorithms. There is extensive use of these techniques in financial instrument price prediction, market trend analysis, establishing investment opportunities, portfolio optimization, etc. Investors and traders are using machine learning and deep learning models for forecasting financial instrument movements. With the widespread adoption of AI in finance, it is imperative to summarize the recent machine learning and deep learning models, which motivated us to present this comprehensive review of the practical applications of machine learning in the financial industry. This article examines algorithms such as supervised and unsupervised machine learning algorithms, ensemble algorithms, time series analysis algorithms, and deep learning algorithms for stock price prediction and solving classification problems. The contributions of this review article are as follows: (a) it provides a description of machine learning and deep learning models used in the financial sector; (b) it provides a generic framework for stock price prediction and classification; and (c) it implements an ensemble model—“Random Forest + XG-Boost + LSTM”—for forecasting TAINIWALCHM and AGROPHOS stock prices and performs a comparative analysis with popular machine learning and deep learning models.
+DA  - 2023/09//
+PY  - 2023
+DO  - 10.3390/ijfs11030094
+DP  - www.mdpi.com
+VL  - 11
+IS  - 3
+SP  - 94
+LA  - en
+SN  - 2227-7072
+ST  - Forecasting Stock Market Prices Using Machine Learning and Deep Learning Models
+UR  - https://www.mdpi.com/2227-7072/11/3/94
+Y2  - 2025/11/19/09:18:51
+L1  - https://www.mdpi.com/2227-7072/11/3/94/pdf?version=1690521261
+KW  - LSTM
+KW  - blending ensemble
+KW  - ensemble learning
+KW  - FB Prophet
+KW  - finance
+KW  - linear regression
+KW  - random forest
+KW  - stock market
+KW  - XG-Boost
+ER  - 
+
+TY  - JOUR
+TI  - Stock Price Forecasting: Traditional Statistical Methods and Deep Learning Methods
+AU  - Xie, Yihui
+T2  - Highlights in Business, Economics and Management
+AB  - Statistical method and machine learning methods can be applied to stock forecasting to assist users in making decisions in a variety of practical applications. This paper uses 50 past stock prices to predict future stock prices in this experiment. Both ARIMA and LSTM models are used in this study to predict the price. The close price on transaction days makes up the dataset in this study. The performance of two models is evaluated by MAE, MSE, and RMSE after running them in this research. And the result shows that both the LSTM model and ARIMA model predict the stock price well. To be specific, MSE values of ARIMA model are 1.17151, 1.55678, 6.38663 and 159.58281. MSE values of LSTM model are 1.18464, 1.07799, 4.87162 and 97.59937. In these two kinds of methods, LSTM model has a better performance than ARIMA model.
+DA  - 2023/12/12/
+PY  - 2023
+DO  - 10.54097/hbem.v21i.14754
+DP  - drpress.org
+VL  - 21
+SP  - 740
+EP  - 745
+LA  - en
+SN  - 2957-952X
+ST  - Stock Price Forecasting
+UR  - https://drpress.org/ojs/index.php/HBEM/article/view/14754
+Y2  - 2025/11/19/09:25:41
+L1  - https://drpress.org/ojs/index.php/HBEM/article/download/14754/14301
+KW  - ARIMA
+KW  - LSTM.
+KW  - Stock Price Forecasting
+ER  - 
+
+TY  - JOUR
+TI  - Forecasting Stock Prices Through Exponential Smoothing Techniques in The Creative Industry of The UK Stock Market
+AU  - Rahman, Md Aminur
+T2  - International Journal of Asian Business and Management
+AB  - The purpose of this study is to thoroughly and critically evaluate the predictive ability of exponential smoothing approaches in the UK stock market's creative industry. Because of this, weekly closing price data were gathered for the sample period spanning October 13, 2003, to February 2, 2024, as determined by the FTSE-350 General Industrial Index and the five creative industry enterprises. Using the multiple breakpoints test of Bai-Perron's L + 1 vs. L sequentially determined breaks, the plain data of the sub-sample period for each selected series has been determined. The weekly closing prices are not normally distributed, as can be shown by looking at the descriptive statistics table, histograms, and kernel density graphs from each series. verifies, through the use of test papers, that the weekly closing prices of each series are not random. Furthermore, the Chow-Denning joint test's variance ratio establishes the martingale model's applicability to all series. Additionally, according to the great majority of the programs, serial auto-correlation is not present at the first difference. Test of serial correlation for LB. Moreover, it seems that none of the series have a unit root at the first difference, according to the results of the Augmented Dickey Fuller unit root test. As a result, statistical research showed that the creative sector's home, the London Stock Exchange (LSE), was weak-form inefficient and had consistent stock values across the testing period. Holt's double exponential smoothing technique has helped to enhance the short-term forecastability of stock prices for the FTSE 350 General Industrial Index and most creative industry series
+DA  - 2024/06/28/
+PY  - 2024
+DO  - 10.55927/ijabm.v3i3.9104
+DP  - journal.formosapublisher.org
+VL  - 3
+IS  - 3
+SP  - 323
+EP  - 338
+LA  - en
+SN  - 2964-3651
+UR  - https://journal.formosapublisher.org/index.php/ijabm/article/view/9104
+Y2  - 2025/11/19/09:31:14
+L1  - https://journal.formosapublisher.org/index.php/ijabm/article/download/9104/9778
+KW  - Creative Industry
+KW  - Exponential Smoothing Techniques
+KW  - Forecasting Stock Price
+KW  - Random Walk Model
+KW  - Structural Breakpoints
+ER  - 
+
+TY  - JOUR
+TI  - Stock Price Prediction: Moving Average and Markov Chain
+AU  - Qian, Hongyi
+T2  - Advances in Economics, Management and Political Sciences
+AB  - Under the assumption that the operation of corporations is stable and the economic environment is steady, there are mathematical rules in the changing of stock prices, making prediction of stock price possible. This paper selects stock price data of Xiaomi Inc, one of the leading technology companies in China, from January 2, 2019 to December 31, 2021 from Yahoo Finance. Three moving average methods, SMA, EMA and MACD, are implemented to analyze the data. Among the three moving average methods, the effect of MACD is better than that of SMA and EMA. Afterwards, Markov chain is employed to calculate from another angle The stable probability distribution of stock price is obtained by using the stability and ergodicity of Markov chain. The feasibility and accuracy of two angles of forecasting methods are verified through being compared.
+DA  - 2023/11/10/
+PY  - 2023
+DO  - 10.54254/2754-1169/36/20231786
+DP  - DOI.org (Crossref)
+VL  - 36
+IS  - 1
+SP  - 66
+EP  - 71
+J2  - AEMPS
+SN  - 2754-1169, 2754-1177
+ST  - Stock Price Prediction
+UR  - https://www.ewadirect.com/proceedings/aemps/article/view/5974
+Y2  - 2025/11/19/09:34:37
+L1  - https://www.ewadirect.com/proceedings/aemps/article/view/5974/pdf
+ER  - 
+
+TY  - CONF
+TI  - Hybrid Machine Learning Models for Wind Power Forecasting: A Comparative Analysis of Support Vector Machine-ARIMA and Random Forest-XG Boost
+AU  - Yeluri, Krishna Mohan
+AU  - Rohini, Aluri
+AU  - Rama Sudha, K.
+A2  - Joshi, Amit
+A2  - Ragel, Roshan
+A2  - Mahmud, Mufti
+A2  - Kartik, S.
+AB  - Wind power is an increasingly viable source of renewable energy, and accurate forecasting of wind power generation is essential for maintaining a balance between supply and demand in smart grids. However, the inherent fluctuations and intermittent nature of wind pose significant challenges to precise forecasting. As the integration of renewable energy sources into power systems intensifies, the demand for accurate short-term forecasts of wind power generation becomes even more critical. While several single-model approaches exist for forecasting wind power, including ARIMA, support vector machine (SVM), exponential smoothing (ETS), Persistence Model, Wavelet Transform, and Least Absolute Shrinkage and Selection Operator (LASSO), the hybridization of these models has emerged as a promising alternative for improving forecasting accuracy. This study explores two hybrid forecasting methods: a combination of random forest and XGBoost, and the integration of SVM with ARIMA. The performance of these models is rigorously assessed using statistical indicators such as the Durbin-Watson statistic and the Jarque–Bera test, along with key evaluation metrics, including the coefficient of determination (R2), root mean square error (RMSE), mean absolute error (MAE), and mean square error (MSE). The SVM-ARIMA model demonstrates superior accuracy and reliability compared to the RF-XGBoost model, with an MSE that is 7.32% lower, an MAE that is 10.43% lower, and an RMSE that is 7.03% lower. Additionally, SVM-ARIMA achieves a 4.55% improvement in R2, highlighting its enhanced pattern recognition capabilities. Consequently, SVM-ARIMA is identified as the preferred model for accurate wind power forecasting, particularly in addressing the challenges associated with the intermittent nature of wind.
+C1  - Singapore
+C3  - ICT: Applications and Social Interfaces
+DA  - 2025///
+PY  - 2025
+DO  - 10.1007/978-981-96-5751-3_31
+DP  - Springer Link
+SP  - 363
+EP  - 377
+LA  - en
+PB  - Springer Nature
+SN  - 978-981-9657-51-3
+ST  - Hybrid Machine Learning Models for Wind Power Forecasting
+KW  - ARIMA (auto-regressive integrated moving average)
+KW  - Durbin-Watson statistic
+KW  - Jarque–Bera test
+KW  - Random forest (RF)
+KW  - Support vector machine (SVM)
+KW  - XGBoost (gradient-boosting)
+ER  - 
+
+TY  - JOUR
+TI  - ERF-XGB: Ensemble Random Forest-Based XG Boost for Accurate Prediction and Classification of E-Commerce Product Review
+AU  - Alghazzawi, Daniyal M.
+AU  - Alquraishee, Anser Ghazal Ali
+AU  - Badri, Sahar K.
+AU  - Hasan, Syed Hamid
+T2  - Sustainability
+AB  - Recently, the concept of e-commerce product review evaluation has become a research topic of significant interest in sentiment analysis. The sentiment polarity estimation of product reviews is a great way to obtain a buyer’s opinion on products. It offers significant advantages for online shopping customers to evaluate the service and product qualities of the purchased products. However, the issues related to polysemy, disambiguation, and word dimension mapping create prediction problems in analyzing online reviews. In order to address such issues and enhance the sentiment polarity classification, this paper proposes a new sentiment analysis model, the Ensemble Random Forest-based XG boost (ERF-XGB) approach, for the accurate binary classification of online e-commerce product review sentiments. Two different Internet Movie Database (IMDB) datasets and the Chinese Emotional Corpus (ChnSentiCorp) dataset are used for estimating online reviews. First, the datasets are preprocessed through tokenization, lemmatization, and stemming operations. The Harris hawk optimization (HHO) algorithm selects two datasets’ corresponding features. Finally, the sentiments from online reviews are classified into positive and negative categories regarding the proposed ERF-XGB approach. Hyperparameter tuning is used to find the optimal parameter values that improve the performance of the proposed ERF-XGB algorithm. The performance of the proposed ERF-XGB approach is analyzed using evaluation indicators, namely accuracy, recall, precision, and F1-score, for different existing approaches. Compared with the existing method, the proposed ERF-XGB approach effectively predicts sentiments of online product reviews with an accuracy rate of about 98.7% for the ChnSentiCorp dataset and 98.2% for the IMDB dataset.
+DA  - 2023/01//
+PY  - 2023
+DO  - 10.3390/su15097076
+DP  - www.mdpi.com
+VL  - 15
+IS  - 9
+SP  - 7076
+LA  - en
+SN  - 2071-1050
+ST  - ERF-XGB
+UR  - https://www.mdpi.com/2071-1050/15/9/7076
+Y2  - 2025/11/19/09:41:45
+L1  - https://www.mdpi.com/2071-1050/15/9/7076/pdf?version=1682298261
+KW  - ensemble random forest
+KW  - Harris hawk optimization algorithm
+KW  - prediction
+KW  - product reviews
+KW  - sentiments
+KW  - XG boost
+ER  - 
+
+TY  - ELEC
+TI  - What Happened to Walmart Stock in 2020?
+AU  - Kalogeropoulos, Demitri
+T2  - The Motley Fool
+AB  - Shareholders beat the market this year, but Walmart trailed some of its main retailing rivals.
+DA  - 2020/12/28/T17:45:00Z
+PY  - 2020
+LA  - en
+UR  - https://www.fool.com/investing/2020/12/28/what-happened-to-walmart-stock-in-2020/
+Y2  - 2025/11/19/15:17:15
+L2  - https://www.fool.com/investing/2020/12/28/what-happened-to-walmart-stock-in-2020/
+ER  - 
+
+TY  - BLOG
+TI  - The stock market’s history of volatility and growth
+AU  - ksimas
+T2  - PlanMember Financial Center, Santa Barbara
+AB  - As we all struggle with the unprecedented Coronavirus crisis and the corresponding stock market crash, it may provide some small degree of comfort to view the current market turmoil from
+DA  - 2020/05/11/T17:52:40+00:00
+PY  - 2020
+LA  - en
+UR  - https://www.planmember.com/sbfinancial/the-stock-markets-history-of-volatility-and-growth/
+Y2  - 2025/11/19/15:27:58
+L2  - https://www.planmember.com/sbfinancial/the-stock-markets-history-of-volatility-and-growth/
+ER  - 
+
+TY  - ELEC
+TI  - Walmart Stock: Buy, Sell, or Hold WMT in 2025?
+UR  - https://pocketoption.com/blog/en/knowledge-base/learning/when-should-i-sell-my-walmart-stock/
+Y2  - 2025/11/19/15:39:30
+ER  - 
+
+TY  - JOUR
+TI  - Mixed Frequency Data Sampling Regression Models: The <i>R</i> Package <b>midasr</b>
+AU  - Ghysels, Eric
+AU  - Kvedaras, Virmantas
+AU  - Zemlys, Vaidotas
+T2  - Journal of Statistical Software
+AB  - When modeling economic relationships it is increasingly common to encounter data sampled at diﬀerent frequencies. We introduce the R package midasr which enables estimating regression models with variables sampled at diﬀerent frequencies within a MIDAS regression framework put forward in work by Ghysels, Santa-Clara, and Valkanov (2002). In this article we deﬁne a general autoregressive MIDAS regression model with multiple variables of diﬀerent frequencies and show how it can be speciﬁed using the familiar R formula interface and estimated using various optimization methods chosen by the researcher. We discuss how to check the validity of the estimated model both in terms of numerical convergence and statistical adequacy of a chosen regression speciﬁcation, how to perform model selection based on a information criterion, how to assess forecasting accuracy of the MIDAS regression model and how to obtain a forecast aggregation of diﬀerent MIDAS regression models. We illustrate the capabilities of the package with a simulated MIDAS regression model and give two empirical examples of application of MIDAS regression.
+DA  - 2016///
+PY  - 2016
+DO  - 10.18637/jss.v072.i04
+DP  - DOI.org (Crossref)
+VL  - 72
+IS  - 4
+J2  - J. Stat. Soft.
+LA  - en
+SN  - 1548-7660
+ST  - Mixed Frequency Data Sampling Regression Models
+UR  - http://www.jstatsoft.org/v72/i04/
+Y2  - 2025/11/23/16:37:06
+L1  - https://scispace.com/pdf/mixed-frequency-data-sampling-regression-models-the-r-5c8u5rwrza.pdf?utm_source=chatgpt.com
+ER  - 
+
+TY  - JOUR
+TI  - Stock Market Forecasting: From Traditional Predictive Models to Large Language Models
+AU  - Darwish, Mahmoud
+AU  - Hassanien, Ehab E.
+AU  - Eissa, Amany H. B.
+T2  - Computational Economics
+AB  - Stock market forecasting is a complex research problem due to the complexity of the factors influencing stock market trends. This survey provides a comprehensive overview of recent advancements in stock market forecasting, focusing on the impact of large language models (LLMs) in financial analytics. The survey explores the strengths and challenges of feature engineering, ensemble methods, hybrid models, text-based prediction and reinforcement learning. It then presents the transformative impact of LLMs, highlighting their capabilities in utilizing transfer learning and few-shot learning to understand complex financial information, enhancing sentiment analysis, improving portfolio management, and stock forecasting accuracy. A key novelty of this survey lies in presenting comprehensive analysis of the strengths and weaknesses of LLMs for different financial tasks in addition to exploring how LLMs can be combined with machine learning and reinforcement learning approaches to overcome their limitations in handling unstructured data, improving model explainability, and enhancing generalizability. Finally, this survey identifies existing research gaps and limitations, proposing future research directions aimed at improving prediction accuracy and utilizing both LLMs and predictive models’ capabilities in stock market forecasting.
+DA  - 2025/06/26/
+PY  - 2025
+DO  - 10.1007/s10614-025-11024-w
+DP  - Springer Link
+J2  - Comput Econ
+LA  - en
+SN  - 1572-9974
+ST  - Stock Market Forecasting
+UR  - https://doi.org/10.1007/s10614-025-11024-w
+Y2  - 2025/11/23/17:07:52
+L1  - https://link.springer.com/content/pdf/10.1007%2Fs10614-025-11024-w.pdf
+KW  - Machine learning
+KW  - Feature engineering
+KW  - Large language models
+KW  - LLM-based financial agents
+KW  - Reinforcement learning
+KW  - Stock market forecasting
+ER  - 
+
+TY  - JOUR
+TI  - Predicting High-Frequency Stock Market Trends with LSTM Networks and Technical Indicators
+AU  - Guo, Haodi
+T2  - Advances in Economics, Management and Political Sciences
+AB  - The application of deep learning in stock price prediction has actually obtained boosting importance because of its capacity to capture complex patterns in financial information. This study uses Long Short-Term Memory (LSTM) networks to anticipate stock costs utilizing both day-to-day trading information and high-frequency minute-level information. For the day-to-day trading data, 42 stock datasets were analyzed, with 37 utilized for training and 5 booked for testing. High-frequency data, characterized by minute-by-minute changes, called for the development of specific designs for each stock. Each design incorporated differing configurations of LSTM devices and technical indicators to enhance predictive accuracy. The experimental outcomes demonstrated that the inclusion of technical indicators led to a reduction in prediction error, as measured by Root Mean Squared Error (RMSE). This highlights the capacity of LSTM networks, especially when boosted with technical indicators, for improving stock price forecasting accuracy throughout various timeframes.
+DA  - 2024/12/26/
+PY  - 2024
+DO  - 10.54254/2754-1169/2024.19528
+DP  - DOI.org (Crossref)
+VL  - 139
+IS  - 1
+SP  - 235
+EP  - 244
+J2  - AEMPS
+SN  - 2754-1169, 2754-1177
+UR  - https://www.ewadirect.com/proceedings/aemps/article/view/19528
+Y2  - 2025/11/23/17:09:32
+ER  - 
+
+TY  - BLOG
+TI  - Look-Ahead Bias
+AU  - CFI, team
+T2  - Corporate Finance Institute
+AB  - Look-ahead bias occurs when a study or simulation relies on data or information that was not yet available or known during the time period being studied.
+LA  - en-US
+UR  - https://corporatefinanceinstitute.com/resources/career-map/sell-side/capital-markets/look-ahead-bias/
+Y2  - 2025/11/23/17:11:25
+L2  - https://corporatefinanceinstitute.com/resources/career-map/sell-side/capital-markets/look-ahead-bias/?utm_source=chatgpt.com
+ER  - 
+
+TY  - JOUR
+TI  - The Adaptive Markets Hypothesis: Market Eﬃciency from an Evolutionary Perspective
+AU  - Lo, Andrew W
+AB  - One of the most inﬂuential ideas in the past 30 years of the Journal of Portfolio Management is the Eﬃcient Markets Hypothesis, the idea that market prices incorporate all information rationally and instantaneously. However, the emerging discipline of behavioral economics and ﬁnance has challenged this hypothesis, arguing that markets are not rational, but are driven by fear and greed instead. Recent research in the cognitive neurosciences suggests that these two perspectives are opposite sides of the same coin. In this article I propose a new framework that reconciles market eﬃciency with behavioral alternatives by applying the principles of evolution—competition, adaptation, and natural selection—to ﬁnancial interactions. By extending Herbert Simon’s notion of “satisﬁcing” with evolutionary dynamics, I argue that much of what behavioralists cite as counterexamples to economic rationality—loss aversion, overconﬁdence, overreaction, mental accounting, and other behavioral biases—are, in fact, consistent with an evolutionary model of individuals adapting to a changing environment via simple heuristics. Despite the qualitative nature of this new paradigm, the Adaptive Markets Hypothesis oﬀers a number of surprisingly concrete implications for the practice of portfolio management.
+DA  - 2004/08/15/
+PY  - 2004
+DP  - Zotero
+LA  - en
+L1  - http://stat.wharton.upenn.edu/~steele/Courses/434/434Context/EfficientMarket/AndyLoJPM2004.pdf
+ER  - 
+
+TY  - JOUR
+TI  - Deep learning with long short-term memory networks for financial market predictions
+AU  - Fischer, Thomas
+AU  - Krauss, Christopher
+T2  - European Journal of Operational Research
+AB  - Long short-term memory (LSTM) networks are a state-of-the-art technique for sequence learning. They are less commonly applied to financial time series predictions, yet inherently suitable for this domain. We deploy LSTM networks for predicting out-of-sample directional movements for the constituent stocks of the S&P 500 from 1992 until 2015. With daily returns of 0.46 percent and a Sharpe ratio of 5.8 prior to transaction costs, we find LSTM networks to outperform memory-free classification methods, i.e., a random forest (RAF), a deep neural net (DNN), and a logistic regression classifier (LOG). The outperformance relative to the general market is very clear from 1992 to 2009, but as of 2010, excess returns seem to have been arbitraged away with LSTM profitability fluctuating around zero after transaction costs. We further unveil sources of profitability, thereby shedding light into the black box of artificial neural networks. Specifically, we find one common pattern among the stocks selected for trading – they exhibit high volatility and a short-term reversal return profile. Leveraging these findings, we are able to formalize a rules-based short-term reversal strategy that yields 0.23 percent prior to transaction costs. Further regression analysis unveils low exposure of the LSTM returns to common sources of systematic risk – also compared to the three benchmark models.
+DA  - 2018/10/16/
+PY  - 2018
+DO  - 10.1016/j.ejor.2017.11.054
+DP  - ScienceDirect
+VL  - 270
+IS  - 2
+SP  - 654
+EP  - 669
+J2  - European Journal of Operational Research
+SN  - 0377-2217
+UR  - https://www.sciencedirect.com/science/article/pii/S0377221717310652
+Y2  - 2025/11/24/14:58:52
+L2  - https://www.sciencedirect.com/science/article/abs/pii/S0377221717310652
+KW  - LSTM
+KW  - Machine learning
+KW  - Deep learning
+KW  - Finance
+KW  - Statistical arbitrage
+ER  - 
+
+TY  - CONF
+TI  - A Unified Approach to Interpreting Model Predictions
+AU  - Lundberg, Scott M
+AU  - Lee, Su-In
+AB  - Understanding why a model makes a certain prediction can be as crucial as the prediction's accuracy in many applications. However, the highest accuracy for large modern datasets is often achieved by complex models that even experts struggle to interpret, such as ensemble or deep learning models, creating a tension between accuracy and interpretability. In response, various methods have recently been proposed to help users interpret the predictions of complex models, but it is often unclear how these methods are related and when one method is preferable over another. To address this problem, we present a unified framework for interpreting predictions, SHAP (SHapley Additive exPlanations). SHAP assigns each feature an importance value for a particular prediction. Its novel components include: (1) the identification of a new class of additive feature importance measures, and (2) theoretical results showing there is a unique solution in this class with a set of desirable properties. The new class unifies six existing methods, notable because several recent methods in the class lack the proposed desirable properties. Based on insights from this unification, we present new methods that show improved computational performance and/or better consistency with human intuition than previous approaches.
+C3  - Advances in Neural Information Processing Systems
+DA  - 2017///
+PY  - 2017
+DP  - Neural Information Processing Systems
+VL  - 30
+PB  - Curran Associates, Inc.
+UR  - https://proceedings.neurips.cc/paper/2017/hash/8a20a8621978632d76c43dfd28b67767-Abstract.html
+Y2  - 2025/11/24/15:01:08
+L1  - https://proceedings.neurips.cc/paper_files/paper/2017/file/8a20a8621978632d76c43dfd28b67767-Paper.pdf
+ER  - 
+
+TY  - GEN
+TI  - The Deflated Sharpe Ratio: Correcting for Selection Bias, Backtest Overfitting and Non-Normality
+AU  - Bailey, David H.
+AU  - Lopez de Prado, Marcos
+AB  - With the advent in recent years of large financial data sets, machine learning and high-performance computing, analysts can backtest millions (if not billions) of alternative investment strategies. Backtest optimizers search for combinations of parameters that maximize the simulated historical performance of a strategy, leading to backtest overfitting.
+CY  - Rochester, NY
+DA  - 2014/07/31/
+PY  - 2014
+DO  - 10.2139/ssrn.2460551
+DP  - papers.ssrn.com
+LA  - en
+PB  - Social Science Research Network
+ST  - The Deflated Sharpe Ratio
+UR  - https://papers.ssrn.com/abstract=2460551
+Y2  - 2025/11/24/15:02:56
+KW  - Backtest overfitting
+KW  - Minimum Backtest Length
+KW  - Minimum Track Record Length
+KW  - Non-Normality
+KW  - Probabilistic Sharpe ratio
+KW  - Sharpe ratio
+ER  - 
+
